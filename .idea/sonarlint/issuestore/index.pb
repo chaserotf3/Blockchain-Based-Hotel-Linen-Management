@@ -9,3 +9,7 @@ U
 %contracts/inventory-registration.clar,9/4/943081c3946a38a87d87dec6c5cea0bf7c43d5d7
 T
 $tests/inventory-registration.test.ts,c/9/c97552a3799d43130d3f0f0212c75053b5e8d3ea
+O
+contracts/laundry-tracking.clar,2/2/22d5dd3ea6609cf5d53b9660eb8ba0f40ff3fb64
+N
+tests/laundry-tracking.test.ts,b/2/b21c652a0b90184f75f1626788f2ace2209a6bf3
