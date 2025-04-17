@@ -5,3 +5,7 @@ N
 contracts/cost-allocation.clar,6/6/666064f06e7ec89a86698eeb4a548d4db5efdfe7
 M
 tests/cost-allocation.test.ts,9/1/91848a6fe1a2bd4752e1414f8d20b0a2fafdbce3
+U
+%contracts/inventory-registration.clar,9/4/943081c3946a38a87d87dec6c5cea0bf7c43d5d7
+T
+$tests/inventory-registration.test.ts,c/9/c97552a3799d43130d3f0f0212c75053b5e8d3ea
