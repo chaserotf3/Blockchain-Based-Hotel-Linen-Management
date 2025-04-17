@@ -13,3 +13,7 @@ O
 contracts/laundry-tracking.clar,2/2/22d5dd3ea6609cf5d53b9660eb8ba0f40ff3fb64
 N
 tests/laundry-tracking.test.ts,b/2/b21c652a0b90184f75f1626788f2ace2209a6bf3
+S
+#contracts/replacement-schedule.clar,6/c/6c78d78b65820fbc7439a74b39df9c42757eced3
+R
+"tests/replacement-schedule.test.ts,2/3/23d1d6b43776f6d6ccb01fbd3dc6c8fd456c54a8
